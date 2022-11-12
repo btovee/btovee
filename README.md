@@ -114,7 +114,7 @@
             height="40"/>
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/btovee/btovee/main/resources/images/php.svg" alt="PHP"
+            src="https://raw.githubusercontent.com/btovee/btovee/main/resources/images/PHP.svg" alt="PHP"
             width="40"
             height="40"/>
     </a>
