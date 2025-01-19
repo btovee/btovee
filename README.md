@@ -1,4 +1,4 @@
-<h3 align="center">Senior Software Engineer 🌟 </h3>
+<h3 align="center">Senior Software Engineer</h3>
 <br>
 <p><img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="btovee"/></p>
 <br>
